@@ -1,0 +1,12 @@
+{
+  "name": "شمیم — رزرو آنلاین",
+  "short_name": "شمیم",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6efe7",
+  "theme_color": "#f6efe7",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
